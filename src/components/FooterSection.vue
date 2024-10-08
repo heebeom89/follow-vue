@@ -1,3 +1,3 @@
 <template>
-SkillSection
+FooterSection
 </template>
